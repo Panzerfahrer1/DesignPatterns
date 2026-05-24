@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="DesignPatterns/DesignPatterns.csproj" />
+  <Project Path="Logger/Logger.csproj" />
+  <Project Path="TicketSystem/TicketSystem.csproj" Id="788ac293-cc39-4dc7-a4af-3125293088b3" />
+</Solution>
