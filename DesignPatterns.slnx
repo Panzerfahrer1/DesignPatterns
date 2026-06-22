@@ -1,5 +1,14 @@
 <Solution>
+  <Project Path="BigRefactoringUebungBib/BigRefactoringUebungBib.csproj" Id="d9d7feeb-2861-4b07-9287-11d6e93dd4da" />
+  <Project Path="CoRSchuelerLehrerAnfragen/CoRSchuelerLehrerAnfragen.csproj" Id="9b0942ad-ead3-44be-b8ab-466c4e30272d" />
   <Project Path="DesignPatterns/DesignPatterns.csproj" />
+  <Project Path="DIPUebung/DIPUebung.csproj" Id="b4b0223d-e0be-4700-90ef-e1f3782e52dc" />
+  <Project Path="ISPUebung/ISPUebung.csproj" Id="c6b5571c-56bd-4219-b176-06416ec8a7a4" />
   <Project Path="Logger/Logger.csproj" />
+  <Project Path="LSPUebung/LSPUebung.csproj" Id="b68b9aab-385f-4f58-ada4-ded67d9564cc" />
+  <Project Path="OCP-Versandkosten/OCP-Versandkosten.csproj" Id="9c0e7be7-cc03-4c81-881a-260d39717063" />
+  <Project Path="SolidUE3/SolidUE3.csproj" Id="b760d5a1-12f1-40ff-abd1-08e7bf66d2d2" />
+  <Project Path="SolidWurmAufgabe/SolidWurmAufgabe.csproj" Id="1dc03bc8-2986-41b9-b54c-9c7d16b1a072" />
+  <Project Path="SolidWurmAufgabe2/SolidWurmAufgabe2.csproj" Id="17091fc6-b913-47e2-97ea-a7ad3ea8588c" />
   <Project Path="TicketSystem/TicketSystem.csproj" Id="788ac293-cc39-4dc7-a4af-3125293088b3" />
 </Solution>

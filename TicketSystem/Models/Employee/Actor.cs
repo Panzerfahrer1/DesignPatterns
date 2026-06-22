@@ -8,6 +8,7 @@ namespace TicketSystem.Models.Employee {
     public abstract class Actor : IActor {
         // TODO: Add blonde to Ticket types and add myself as a employee. So i do a blonde atleast in my code
         // (Sad autistic developer noises)
+        // DONE. I love your sense of humor.
         public List<TicketType> doableTypes { get; }
         public IActor _nextActor { get; set; }
         public int MaxComplexity { get; }
